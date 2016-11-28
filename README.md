@@ -1,16 +1,18 @@
 # Flash card site
 
-## Javascript definition like strings, and booleans, 8/9/16
+## Javascript definition flash card, 8/9/16
 
 #### By **Adam Gorbahn and Nhat Hoang**
 
 ## Description
 
-Uses html,Javascript,jquery,bootstrap and some CSS.
+Create a grid of flash card that would show definition of the word once it is click.
 
 ## Setup/Installation Requirements
 
-* Just need a web browser
+* Git clone this repository.
+
+you should be able to run it on any web browsers.
 
 ## Technologies Used
 
